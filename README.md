@@ -3,4 +3,4 @@ Just a simple app that shows how you handle Grid, StackPanel, TextBlocks and che
 
 
 
-![Preview of the app](https://drive.google.com/file/d/1-S8jzIrQhhqSY2T8Wx0LI5t050dfoot7)
+![Preview of the app](https://drive.google.com/uc?authuser=0&id=1-S8jzIrQhhqSY2T8Wx0LI5t050dfoot7&export=download)
